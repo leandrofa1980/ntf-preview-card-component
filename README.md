@@ -14,7 +14,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 ### Links
 
 - Solution URL: [GitHub solution](https://github.com/leandrofa1980/ntf-preview-card-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [NFT Card Component](https://leandrofa1980-nft-card-component.netlify.app/)
 
 ## Author
 
