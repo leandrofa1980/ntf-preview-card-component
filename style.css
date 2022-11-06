@@ -89,6 +89,7 @@ a {
 
 .card-description {
   color: var(--Soft-Blue);
+  font-size: 1.2rem;
 }
 
 .information {
